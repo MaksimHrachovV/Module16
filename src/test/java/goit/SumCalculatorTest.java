@@ -19,7 +19,7 @@ class SumCalculatorTest {
     @Test
     void testSumEqualsOne() {
         //When
-        int actual = sumTest.sum(1);
+        int actual = sumTest.sum(2);
 
         //Then
         int expected = 1;
